@@ -1,0 +1,11 @@
+{
+    "DB": {
+      "Driver": "mysql",
+      "User": "root",
+      "Password": "password",
+      "Host": "localhost",
+      "Port": "3306",
+      "Database": "Zop"
+    }
+  }
+  
